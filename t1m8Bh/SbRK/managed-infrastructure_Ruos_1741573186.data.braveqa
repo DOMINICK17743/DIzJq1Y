@@ -1,4 +1,3 @@
-tests/specs/clone_stack_template.spec
 tests/specs/collaboration_create_newfile_from_IDE.spec
 tests/specs/collaboration_create_save_files.spec
 tests/specs/collaboration_delete_file.spec
