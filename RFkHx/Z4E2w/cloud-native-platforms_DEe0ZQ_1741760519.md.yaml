@@ -27,7 +27,6 @@ github:
   enabled_merge_buttons:
     # Enable squash button
     squash: true
-    # Disable merge button
     merge: false
     # Disable rebase button
     rebase: false
