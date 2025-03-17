@@ -8,7 +8,6 @@ notifications:
 
 language: java
 
-matrix:
   include:
     # On OSX, run with default JDK only.
     # - os: osx
