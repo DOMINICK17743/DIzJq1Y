@@ -31,4 +31,3 @@
  * Anonymous login
  * One question per slide
  * Multiple-choice questions
- * Simple statistics per question
