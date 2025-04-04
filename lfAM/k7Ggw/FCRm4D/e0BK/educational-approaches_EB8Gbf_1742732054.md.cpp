@@ -479,7 +479,6 @@ Well?
 Well, I met someone.
 You did? Was she Bee-ish?
 A wasp?! Your parents will kill you!
-No, no, no, not a wasp.
 Spider?
 I'm not attracted to spiders.
 I know it's the hottest thing, with the eight legs and all. I can't get by that face.
