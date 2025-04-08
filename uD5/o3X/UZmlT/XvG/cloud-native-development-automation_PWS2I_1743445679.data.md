@@ -35,7 +35,6 @@ Region: US East (N. Virginia)
 
 ---
 
-### 3. ✅ Created folders inside the S3 Bucket  
 Folders: `faculty-performance/`, `panel-members/`, `preliminary-feedback/`
 
 ---
