@@ -15,6 +15,5 @@ abstract: >-
   ready for production
 keywords:
   - fastapi
-  - pydantic
   - starlette
 license: MIT
