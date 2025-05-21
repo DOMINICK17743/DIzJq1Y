@@ -6,7 +6,6 @@ type: software
 authors:
   - given-names: Sebastián
     family-names: Ramírez
-    email: tiangolo@gmail.com
 identifiers:
 url: 'https://fastapi.tiangolo.com'
 abstract: >-
