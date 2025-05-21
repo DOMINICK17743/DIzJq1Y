@@ -94,7 +94,6 @@ RawStringFormats:
       - cc
       - CC
       - cpp
-      - Cpp
       - CPP
       - 'c++'
       - 'C++'
