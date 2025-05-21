@@ -1,7 +1,6 @@
 
 cff-version: 1.2.0
 title: FastAPI
-  If you use this software, please cite it using the
 type: software
 authors:
   - given-names: Sebastián
