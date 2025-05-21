@@ -57,7 +57,6 @@ FixNamespaceComments: true
 ForEachMacros:
 #  - foreach
   - Q_FOREACH
-  - BOOST_FOREACH
 IncludeBlocks:   Preserve
 IncludeCategories:
   - Regex:           '^<ext/.*\.h>'
