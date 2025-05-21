@@ -5,7 +5,6 @@ type: software
 authors:
   - given-names: Sebastián
     family-names: Ramírez
-identifiers:
 abstract: >-
   ready for production
 license: MIT
