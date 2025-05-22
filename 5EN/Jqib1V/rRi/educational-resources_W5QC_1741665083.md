@@ -1,4 +1,3 @@
-MIT License
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 copies of the Software, and to permit persons to whom the Software is
