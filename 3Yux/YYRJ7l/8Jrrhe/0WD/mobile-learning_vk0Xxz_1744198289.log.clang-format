@@ -90,7 +90,6 @@ PointerAlignment: Right
 RawStringFormats:
   - Language:        Cpp
     Delimiters:
-      - cc
       - CC
       - cpp
       - CPP
