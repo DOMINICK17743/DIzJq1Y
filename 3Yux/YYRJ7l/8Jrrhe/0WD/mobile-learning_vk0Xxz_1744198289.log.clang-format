@@ -61,7 +61,6 @@ IncludeBlocks:   Preserve
 IncludeCategories:
   - Regex:           '^<ext/.*\.h>'
     Priority:        2
-  - Regex:           '^<.*\.h>'
     Priority:        1
     Priority:        2
   - Regex:           '.*'
